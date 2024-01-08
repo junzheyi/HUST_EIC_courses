@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "locale": "zh_CN",
+  "platform": "4.0.3",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "index.html",
+    "content_category": "site",
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "index.html": {
+      "checksum": "6ecbe3910237b09a1328063334a28cf3"
+    },
+    "libs/accessible-code-block-0.0.1/empty-anchor.js": {
+      "checksum": "53c42ac72d71beb8e6dbffe86ab543d6"
+    },
+    "libs/anchor-sections-1.0/anchor-sections.css": {
+      "checksum": "98f11fa7f3ce7ed9fdda176360682403"
+    },
+    "libs/anchor-sections-1.0/anchor-sections.js": {
+      "checksum": "35155fd1c913543974de3b2fd81e7fbd"
+    },
+    "libs/gitbook-2.6.7/css/fontawesome/fontawesome-webfont.ttf": {
+      "checksum": "b06871f281fee6b241d60582ae9369b9"
+    },
+    "libs/gitbook-2.6.7/css/plugin-bookdown.css": {
+      "checksum": "44444d0f3eb8064760ba1976976a7101"
+    },
+    "libs/gitbook-2.6.7/css/plugin-clipboard.css": {
+      "checksum": "e4a3bdc1e3d5590f47cbac67976f3961"
+    },
+    "libs/gitbook-2.6.7/css/plugin-fontsettings.css": {
+      "checksum": "76af8c23a8138a4b66aa6959ca5c3a8e"
+    },
+    "libs/gitbook-2.6.7/css/plugin-highlight.css": {
+      "checksum": "467fbe4b6b5a4b88fdd75c463f8626ec"
+    },
+    "libs/gitbook-2.6.7/css/plugin-search.css": {
+      "checksum": "0d7a6bb6a50e00c7358cf61027f099f0"
+    },
+    "libs/gitbook-2.6.7/css/plugin-table.css": {
+      "checksum": "8cb82f94ce1446fa4bafe7a3933e6c65"
+    },
+    "libs/gitbook-2.6.7/css/style.css": {
+      "checksum": "11f13a161c95d0e8257d673dc27f9251"
+    },
+    "libs/gitbook-2.6.7/js/app.min.js": {
+      "checksum": "395a8093ce46450cabfaa545a0705a3b"
+    },
+    "libs/gitbook-2.6.7/js/clipboard.min.js": {
+      "checksum": "be72101c8c16ba95fd8b69760d5ebc56"
+    },
+    "libs/gitbook-2.6.7/js/jquery.highlight.js": {
+      "checksum": "999424d32e03b9857098d2c7f53928c2"
+    },
+    "libs/gitbook-2.6.7/js/lunr.js": {
+      "checksum": "fbc747c6143aabb39b0ea7c0524b7057"
+    },
+    "libs/gitbook-2.6.7/js/plugin-bookdown.js": {
+      "checksum": "36b5487b9c1020c0de1352b8f26b8a8e"
+    },
+    "libs/gitbook-2.6.7/js/plugin-clipboard.js": {
+      "checksum": "a30f95fcd3fde10637ace1fb691b7475"
+    },
+    "libs/gitbook-2.6.7/js/plugin-fontsettings.js": {
+      "checksum": "4f57689705fdfa3eabfb7b7b92614f33"
+    },
+    "libs/gitbook-2.6.7/js/plugin-search.js": {
+      "checksum": "2d4c4d47ba34946b8ebcbe41aa522756"
+    },
+    "libs/gitbook-2.6.7/js/plugin-sharing.js": {
+      "checksum": "799a983ef24c1cbe315d020a65aa1644"
+    },
+    "libs/jquery-2.2.3/jquery.min.js": {
+      "checksum": "33cabfa15c1060aaa3d207c653afb1ee"
+    },
+    "reference-keys.txt": {
+      "checksum": "39a4630fd6cff40250f86481f607d165"
+    },
+    "search_index.json": {
+      "checksum": "6d8d15193309550731f33e43df7eafbc"
+    },
+    "style.css": {
+      "checksum": "19f0b33dc27d4f748874d2cde5cea5bc"
+    },
+    "经典词汇.html": {
+      "checksum": "98dc551b61e9ffca08eaab5efb9803b7"
+    },
+    "六级必备词组及短语搭配.html": {
+      "checksum": "ae9aee6b408f64486f403051e7b036bb"
+    },
+    "年上半年英语六级作文范文赏析.html": {
+      "checksum": "641073491ec613d92135c7ba9afdae95"
+    },
+    "英语六级作文模板-1.html": {
+      "checksum": "36d096d78f77e00b140a1bd93c306f1e"
+    },
+    "英语六级作文模板.html": {
+      "checksum": "b997acbe5a9aa9873e4e882914e0a0e1"
+    },
+    "英语六级作文模板对比观点型.html": {
+      "checksum": "169f7b1876b07539214499f50fead3a2"
+    },
+    "英语六级作文模板对比选择型.html": {
+      "checksum": "b4c9e32b4c9007ec00aad54aff2bdc60"
+    },
+    "英语六级作文模板话题作文之模块句型.html": {
+      "checksum": "8a50de45965518ce8488a7dbf1a0579a"
+    },
+    "英语六级作文模板话题作文之原因说明.html": {
+      "checksum": "a5298de0c2fd16159335f485c872f1d8"
+    },
+    "英语六级作文模板实用性写作.html": {
+      "checksum": "b38d94eef536746599cbc6770fa8fcb8"
+    },
+    "英语六级作文模板说明利弊型.html": {
+      "checksum": "8937b149dac3d12f758cbb8db56efaba"
+    },
+    "英语六级作文模板图表型作文.html": {
+      "checksum": "28e125ba362ea455298141d1d4218077"
+    },
+    "英语六级作文万能模板阐述主题型.html": {
+      "checksum": "8208cf707099e8985e5b61df0713527b"
+    },
+    "英语六级作文万能模板问题解决型.html": {
+      "checksum": "f6bf5f91ac25426f60640825d435afb8"
+    },
+    "英语六级作文万能模板现象解释型.html": {
+      "checksum": "212841d970efc74f93d8304912c62f0b"
+    }
+  },
+  "users": null
+}
