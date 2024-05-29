@@ -1,2 +1,6 @@
-# HUST_EIC_courses
-this repo is composed of Junzhe Yi's learning materials&amp;notes in HUST, started from the first semester of the second academic year.
+华中科技大学电信学院本科课程
+======
+这个仓库里存放着我大二上学期以来的收集的课程资料。
+如果想要下载单个文件或文件夹，请使用工具[DownGit](https://chris1111.github.io/DownGit/#/home) (可能需要科学上网)
+欢迎贡献，或者如果你有任何问题或建议，请随时提出issue或发送pull request。
+感谢您的关注和支持！
