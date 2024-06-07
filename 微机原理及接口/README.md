@@ -1,9 +1,9 @@
 《模电（三）》
 ===
-[book](./book/): 教学参考书
-[manual](./manual/): 手册
-[slides](./slides/): 张江山老师的课件，张江山老师课件用的教材是[英文版教材](./book/Computer+Organization+and+Design+The+Hardware-Software+Interface,David+A.+Patterson,+John+L.+Hennessy,+5th+Edition.pdf)
-[slides2](./slides2/): 期末复习的时候本人找通信的同学要的中文课件，苦苦苦。
+* [book](./book/): 教学参考书
+* [manual](./manual/): 手册
+* [slides](./slides/): 张江山老师的课件，张江山老师课件用的教材是[英文版教材](./book/Computer+Organization+and+Design+The+Hardware-Software+Interface,David+A.+Patterson,+John+L.+Hennessy,+5th+Edition.pdf)
+* [slides2](./slides2/): 期末复习的时候本人找通信的同学要的中文课件，苦苦苦。
 
 
 ### 实验操作考试题目：（回忆版）
