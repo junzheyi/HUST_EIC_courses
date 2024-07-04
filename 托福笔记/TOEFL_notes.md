@@ -34,7 +34,7 @@ convert to :
 
 ###  Familiar topics
 
-![image-20240704120630883](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20240704120630883.png)
+![image-20240704120630883](https://cdn.jsdelivr.net/gh/junzheyi/myBlog@master/img/image-20240704120630883.png)
 
 ##### Problems
 
